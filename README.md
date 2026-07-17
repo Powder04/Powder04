@@ -1,5 +1,5 @@
 # 💫 About Me:
-- Hello everyone, I am Khue.<br>- I am studying at Can Tho University.<br>- My major is Computer Networks and Data Communication.<br>- GPA 3.42/4.0<br>- Soft skills: teamwork, problem solving, communication, adaptability and work ethic.
+- Hello everyone, I am Khue.<br>- I am studying at Can Tho University.<br>- My major is Computer Networks and Data Communication.<br>- GPA 3.45/4.0<br>- Soft skills: teamwork, problem solving, communication, adaptability and work ethic.
 
 
 ## 🌐 Socials:
